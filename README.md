@@ -37,6 +37,14 @@ Built with:
 
 ---
 
+## 🚀 Run Locally
+
+1. Clone the repo:
+   ```bash
+   git clone https://github.com/LakshmanReddyBasi/Multi-Spark-AI
+   cd multi-spark-ai
+
+
 2. Set Up Environment
 👉 Edit .env and add your API keys:
 GOOGLE_API_KEY=your_gemini_api_key_here
@@ -47,11 +55,3 @@ pip install -r requirements.txt
 
 4. Launch the App
 streamlit run app.py
-
-
-## 🚀 Run Locally
-
-1. Clone the repo:
-   ```bash
-   git clone https://github.com/LakshmanReddyBasi/Multi-Spark-AI
-   cd multi-spark-ai
